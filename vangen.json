@@ -1,0 +1,10 @@
+{
+  "domain": "go.alekc.dev",
+  "repositories": [
+    {
+      "prefix": "publicip",
+      "type": "git",
+      "url": "https://github.com/alekc-go/publicip"
+    }
+  ]
+}
