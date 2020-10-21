@@ -5,6 +5,11 @@
       "prefix": "publicip",
       "type": "git",
       "url": "https://github.com/alekc-go/publicip"
+    },
+    {
+      "prefix": "gitlab-runner-operator",
+      "type": "git",
+      "url": "https://github.com/alekc-go/gitlab-runner-operator"
     }
   ]
 }
